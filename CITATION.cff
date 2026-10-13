@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this research proposal if you use it."
+title: "The Wright Question: Recursive Coherence as a Testable Extension of Einstein–Maxwell Dynamics"
+authors:
+  - family-names: Wright
+    given-names: Matthew Chenoweth
+date-released: 2026-10-13
+repository-code: "https://github.com/enuminous/Research-Program"
+type: software
